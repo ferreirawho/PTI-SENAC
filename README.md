@@ -6,6 +6,7 @@
 - Fabricio Portela Machado
 - Wesley Sousa Cordeiro
 - Jairo Tavares de Souza
+- Fernando Gabriel Ferreira
 
 ---
 
